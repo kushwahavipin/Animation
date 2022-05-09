@@ -5,5 +5,9 @@
         android:fromXScale="1"
         android:fromYScale="1"
         android:toXScale="4"
-        android:toYScale="4" />
+        android:toYScale="4"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"/>
 </set>
